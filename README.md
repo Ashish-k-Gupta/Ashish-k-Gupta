@@ -10,7 +10,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashish-k-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-k-gupta" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashish_guptaz" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_guptaz?logo=twitter&style=for-the-badge" alt="ashish_guptaz" /></a> </p>
+<p align="left" margin="20"> <a href="https://twitter.com/ashish_guptaz" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_guptaz?logo=twitter&style=for-the-badge" alt="ashish_guptaz" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
 
