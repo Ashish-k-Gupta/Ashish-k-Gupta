@@ -4,10 +4,11 @@
 <img align="left" alt="GIF from my Footwear" project width="400" height="200" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/FootWare-FrontEnd.gif">
 <img align="right" alt="GIF from my CardGame API" project width="400" height="200" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/CardGames%20API.gif">
 <img align="left" alt="GIF from my TicTacToe" project width="400" height="200" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/TicTacToe.GIF">
+
 <br>
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-k-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-k-gupta" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ashish-k-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-k-gupta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashish_guptaz" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_guptaz?logo=twitter&style=for-the-badge" alt="ashish_guptaz" /></a> </p>
 
@@ -15,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashish-k-Gupta](https://github.com/Ashish-k-Gupta)
 
-- 📫 How to reach me **theashukumar007@gmail.com**
+- 📫 How to reach me **ashishgupta322000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
