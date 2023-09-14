@@ -13,12 +13,6 @@
   </samp>
 </p>
 <h3 align="left" width="400">A passionate software developer from India with a track record of creating seamless user experiences and robust server-side solutions. I am actively seeking employment opportunities to contribute my skills to a motivated team. If you're in search of a passionate developer to enhance your projects, I'd love to connect.</h3>
-
-
-<img align="right" alt="GIF from BigBangTheory" project width="400" height="250" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/bigbangGif.gif">
-
-
-
 <img align="right" alt="GIF from my IgniteYourWheels" project width="400" height="200" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/ezgif.com-video-to-gif.gif">
 <img align="left" alt="GIF from my Footwear" project width="400" height="200" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/FootWare-FrontEnd.gif">
 <img align="right" alt="GIF from my CardGame API" project width="400" height="200" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/CardGames%20API.gif">
