@@ -1,4 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
+<h1 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Ashish</a></b>
+        </samp>
+</h1>
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+    <br>
+    「 I am a full stack web appplication developer from <b>India</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 <h3 align="center">A passionate software developer from India with a track record of creating seamless user experiences and robust server-side solutions. I am actively seeking employment opportunities to contribute my skills to a motivated team. If you're in search of a passionate developer to enhance your projects, I'd love to connect.</h3>
 <img align="right" alt="GIF from my IgniteYourWheels" project width="400" height="200" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/ezgif.com-video-to-gif.gif">
 <img align="left" alt="GIF from my Footwear" project width="400" height="200" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/FootWare-FrontEnd.gif">
