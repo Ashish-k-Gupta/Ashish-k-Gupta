@@ -1,6 +1,6 @@
 <h1 align="center">
         <samp>&gt; Hey There!,👋 I am
-                <b><a target="_blank" href="https://alsiam.com">Ashish</a></b>
+                <b><a target="_blank">Ashish</a></b>
         </samp>
 </h1>
 
