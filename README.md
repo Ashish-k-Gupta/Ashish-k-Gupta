@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A passionate software developer from India with a track record of creating seamless user experiences and robust server-side solutions. I am actively seeking employment opportunities to contribute my skills to a motivated team. If you're in search of a passionate developer to enhance your projects, I'd love to connect.</h3>
 <img align="right" alt="GIF from my IgniteYourWheels" project width="500" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/ezgif.com-video-to-gif.gif">
-<img align="right" alt="GIF from my IgniteYourWheels" project width="500" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/FootWare-FrontEnd.gif">
+<img align="left" alt="GIF from my IgniteYourWheels" project width="500" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/FootWare-FrontEnd.gif">
 <img align="right" alt="GIF from my IgniteYourWheels" project width="500" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/CardGames%20API.gif">
-<img align="right" alt="GIF from my IgniteYourWheels" project width="500" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/TicTacToe.GIF">
+<img align="left" alt="GIF from my IgniteYourWheels" project width="500" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/TicTacToe.GIF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-k-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-k-gupta" /> </p>
 
