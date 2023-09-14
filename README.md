@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A passionate software developer from India with a track record of creating seamless user experiences and robust server-side solutions. I am actively seeking employment opportunities to contribute my skills to a motivated team. If you're in search of a passionate developer to enhance your projects, I'd love to connect.</h3>
-<img align="right" alt="GIF from my IgniteYourWheels" project width="400" height="500" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/ezgif.com-video-to-gif.gif">
+<img align="right" alt="GIF from my IgniteYourWheels" project width="400" height="200" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/ezgif.com-video-to-gif.gif">
 <img align="left" alt="GIF from my IgniteYourWheels" project width="400" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/FootWare-FrontEnd.gif">
 <img align="right" alt="GIF from my IgniteYourWheels" project width="400" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/CardGames%20API.gif">
 <img align="left" alt="GIF from my IgniteYourWheels" project width="400" src="https://github.com/Ashish-k-Gupta/Ashish-k-Gupta/blob/main/TicTacToe.GIF">
